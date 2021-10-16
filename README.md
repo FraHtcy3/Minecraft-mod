@@ -1,5 +1,3 @@
-# Minecraft-mod
-
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
